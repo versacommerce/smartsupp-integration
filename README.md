@@ -1,8 +1,6 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
 [<img src="smartsupp.png" width="90px" align="right" alt="smartsupp.com">](https://www.smartsupp.com/?utm_source=www.versacommerce.de)
 
-[VersaCommerce] [integration] [javascript] [Smartsupp]
-
 # Smartsupp Integration for VersaCommerce
 
 ## Smartsupp
